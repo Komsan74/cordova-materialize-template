@@ -30,5 +30,5 @@ and edit template with you style
 - add plugin you need <code>cordova plugin add cordova-plugin-<plugin_name> --save</code>
 - edit template would you need
 - push everything to github and get origins remote link to template
-- and call template via command in usage above.
+- and call template via command in <link src="https://github.com/Komsan74/cordova-materialize-template/blob/master/readme.md#usage">usage</link> above.
 - Reconfig it and fun!
