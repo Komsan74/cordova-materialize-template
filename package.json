@@ -1,8 +1,8 @@
 {
-  "name": "io.cordova.hellocordova",
-  "displayName": "HelloCordova",
+  "name": "cordova-materialize-template",
+  "displayName": "materialcordova",
   "version": "1.0.0",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "description": "cordova materialize template.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,13 +12,5 @@
     "cordova:template"
   ],
   "author": "Apache Cordova Team",
-  "license": "Apache-2.0",
-  "devDependencies": {
-    "cordova-plugin-whitelist": "^1.3.4"
-  },
-  "cordova": {
-    "plugins": {
-      "cordova-plugin-whitelist": {}
-    }
-  }
+  "license": "Apache-2.0"  
 }

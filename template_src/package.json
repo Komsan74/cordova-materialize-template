@@ -1,8 +1,8 @@
 {
-  "name": "com.ferro.materialtest",
-  "displayName": "materialtest",
+  "name": "com.ferro.materialcordova",
+  "displayName": "materialcordova",
   "version": "1.0.0",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "description": "cordova materialize template.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
   "keywords": [
     "ecosystem:cordova"
   ],
-  "author": "Apache Cordova Team",
+  "author": "Ferro Team",
   "license": "Apache-2.0",
   "devDependencies": {
     "cordova-plugin-whitelist": "^1.3.4"
