@@ -19,3 +19,14 @@ and edit template with you style
 ### Cordova Plugins
 - <code>cordova-plugin-splashscreen</code>
 - <code>cordova-plugin-x-toast</code>
+
+### How to create this template
+- create template folder <code>mkdir template_folder_name</code>
+- go into template folder <cod>cd template_folder_name</code>
+- run <code>npm init</code> this will contain package.json for this package
+- create file index.js to access template_src folder
+- run <code>cordova create template_src_name</code> to create your template_src under template_folder_name
+- add platform <code>cordova platform add android@8 --save</code> this support for android kitkat minimum
+- add plugin you need <code>cordova plugin add cordova-plugin-<plugin_name> --save</code>
+- push everything to github and get origins remote link to template
+- and call template via usage above
