@@ -28,6 +28,7 @@ and edit template with you style
 - run <code>cordova create template_src_name</code> to create your template_src under template_folder_name
 - add platform <code>cordova platform add android@8 --save</code> this support for android kitkat minimum
 - add plugin you need <code>cordova plugin add cordova-plugin-<plugin_name> --save</code>
+- edit template would you need
 - push everything to github and get origins remote link to template
 - and call template via command in usage above.
 - Reconfig it and fun!
