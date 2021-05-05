@@ -2,7 +2,7 @@
 Simple template for begin a Cordova project with Materialize CSS & Font Icons
 
 ### Usage
-- cordova create Project you.company.projectId appName --template https://github.com/Komsan74/cordova-materialize-template
+<code>cordova create project_name you.company.projectId app_name --template https://github.com/Komsan74/cordova-materialize-template</code>
 
 ### Reconfig template
 - npm install
