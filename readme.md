@@ -8,8 +8,9 @@ Simple template for create a Cordova project with Materialize CSS & Font Icons
 - <code>npm install</code>
 - <code>cordova prepare</code>
 - <code>cordova clean</code>
+- <code>cordova run</code> for test project
 
-and edit template with you want
+and edit template with you style
 
 ### Dependencies
 - <code>material-design-icons</code>
